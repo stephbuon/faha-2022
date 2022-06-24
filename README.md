@@ -2,6 +2,7 @@
 
 JupyterNotebooks for Foundations and Applications of Humanities Analytics Institute
 
+## Code
 
 #### Initial Clone
 
@@ -17,6 +18,7 @@ git pull
 git submodule update --recursive 
 ```
 
+## Data 
 
 Data Sets: 
 
