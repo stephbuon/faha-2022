@@ -4,6 +4,9 @@ JupyterNotebooks for Foundations and Applications of Humanities Analytics Instit
 
 ## Code
 
+This repository contain the code 
+will have to "clone" (akin to "download") the repository onto your computer. To do so: 
+
 #### Initial Clone
 
 `git clone https://github.com/stephbuon/faha.git`
