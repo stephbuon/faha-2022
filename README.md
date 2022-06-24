@@ -1,6 +1,10 @@
 # Foundations and Applications of Humanities Analytics
 
-JupyterNotebooks for Foundations and Applications of Humanities Analytics Institute
+
+## Installation
+
+install anaconda python 3.x
+
 
 ## Code
 
