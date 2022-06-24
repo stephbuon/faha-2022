@@ -3,11 +3,11 @@
 JupyterNotebooks for Foundations and Applications of Humanities Analytics Institute
 
 
-### Initial Clone
+#### Initial Clone
 
 `git clone https://github.com/stephbuon/faha.git`
 
-### Subsequent Updates
+#### Subsequent Updates
 
 From inside digital-history directory:
 
