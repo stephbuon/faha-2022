@@ -9,10 +9,10 @@ JupyterNotebooks for Foundations and Applications of Humanities Analytics Instit
 
 #### Subsequent Updates
 
-From inside digital-history directory:
+From inside faha directory:
 
 ```
 git reset --hard
 git pull
 git submodule update --recursive 
-``
+```
