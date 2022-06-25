@@ -21,7 +21,7 @@ git clone https://github.com/stephbuon/faha.git
 
 #### Subsequent Updates
 
-From inside faha directory:
+From inside the "faha" directory:
 
 ```
 git reset --hard
