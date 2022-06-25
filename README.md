@@ -9,9 +9,7 @@ For this course we will be using the latest version "Anaconda"--a distribution o
 
 
 ## Code
-
-This repository contain the code 
-will have to "clone" (akin to "download") the repository onto your computer. To do so: 
+TO use this code, "clone" (i.e. "download") the repository onto your computer. 
 
 #### Initial Clone
 
