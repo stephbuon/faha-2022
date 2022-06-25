@@ -17,7 +17,6 @@ git clone https://github.com/stephbuon/faha.git
 ```
 
 #### Subsequent Updates
-
 From inside the "faha" directory:
 
 ```
@@ -27,14 +26,20 @@ git submodule update --recursive
 ```
 
 ## Data 
+While students are encouraged to discover archives that match their interests, we provide access to three pre-curated data sets: 
 
-Data Sets: 
+- [The U.S. Congress, 2002-2022]()
+- SIMON
+- DAVID
 
-U.S. Congress, 2022-2002.
+### About the U.S. Congress Data Set
+(enter)
 
-decade subsets 
-just year 
+### About enter
+(enter)
 
+### About enter
+(enter)
 
 
 
