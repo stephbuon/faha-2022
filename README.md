@@ -2,14 +2,10 @@
 
 
 ## First Time Set Up
-
-How to install jupyterlab
-
 For this course we will be using the latest version "Anaconda"--a distribution of the Python programming langauge with pre-configured settings designed for "scientific computing" such as text mining, data analytics, and more! 
 
-install anaconda python 3.x
-
-https://www.anaconda.com/products/distribution
+- Install [Anaconda](https://www.anaconda.com/products/distribution#macos) (it may take a couple minutes to download).
+- 
 
 
 ## Code
