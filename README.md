@@ -15,7 +15,9 @@ will have to "clone" (akin to "download") the repository onto your computer. To 
 
 #### Initial Clone
 
-`git clone https://github.com/stephbuon/faha.git`
+```
+git clone https://github.com/stephbuon/faha.git
+```
 
 #### Subsequent Updates
 
