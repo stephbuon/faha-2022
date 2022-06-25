@@ -7,9 +7,8 @@ For this course we will be using the latest version "Anaconda"--a distribution o
 - Install [Anaconda](https://www.anaconda.com/products/distribution#macos) (it may take a couple minutes to download).
 - 
 
-
 ## Code
-TO use this code, "clone" (i.e. "download") the repository onto your computer. 
+To access the Notebooks, "clone" (i.e. "download") the repository onto your computer. 
 
 #### Initial Clone
 
