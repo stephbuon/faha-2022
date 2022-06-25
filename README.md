@@ -26,14 +26,15 @@ git submodule update --recursive
 ```
 
 ## Data 
-While students are encouraged to discover archives that match their interests, we provide access to three pre-curated data sets: 
+While students are encouraged to discover archives that match their interests, we provide access to three pre-curated data sets that can be downloaded onto your computer: 
 
 - [The U.S. Congress, 2002-2022]()
 - SIMON
 - DAVID
 
 ### About the U.S. Congress Data Set
-(enter)
+Two decade-length subsets
+Just 2021 and just 2001. 
 
 ### About enter
 (enter)
