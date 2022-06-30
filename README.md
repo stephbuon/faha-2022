@@ -29,8 +29,8 @@ git submodule update --recursive
 While students are encouraged to discover archives that match their interests, we provide access to three pre-curated data sets that can be downloaded onto your computer: 
 
 - [The U.S. Congress, 2002-2022]()
+- [State Boards of Education Minutes]()
 - SIMON
-- DAVID
 
 #### About the U.S. Congress Data Set
 The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session.
@@ -39,6 +39,9 @@ We scraped the plain-text versions of the Daily Editions of the U.S. Congression
 
 #### About the Minutes from the State Boards of Education
 We converted PDF for ENTER 
+
+for what states? 
+for what years? 
 
 #### About enter
 (enter)
