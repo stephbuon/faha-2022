@@ -35,7 +35,7 @@ While students are encouraged to discover archives that match their interests, w
 #### About the U.S. Congress Data Set
 The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session.
 
-We scraped the plain-text versions of the Daily Editions of the U.S. Congressional Records from "congress.gov." For a full description of the Daily Editions, or the versions of  between the two versions, see [Gov Info](https://www.govinfo.gov/help/crecb).  
+We scraped the plain-text versions of the Daily Editions of the U.S. Congressional Records from "congress.gov." For a full description of the Daily Editions, or for access to different versions (such as the Bound Edition), see [Gov Info](https://www.govinfo.gov/help/crecb).  
 
 #### About enter
 (enter)
