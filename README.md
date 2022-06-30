@@ -37,8 +37,8 @@ The Congressional Record is the official record of the proceedings and debates o
 
 We scraped the plain-text versions of the Daily Editions of the U.S. Congressional Records from "congress.gov." For a full description of the Daily Editions, or for access to different versions (such as the Bound Edition), see [Gov Info](https://www.govinfo.gov/help/crecb).  
 
-#### About enter
-(enter)
+#### About the Minutes from the State Boards of Education
+We converted PDF for ENTER 
 
 #### About enter
 (enter)
