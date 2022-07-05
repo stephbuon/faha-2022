@@ -2,9 +2,7 @@
 (enter description)
 
 ## First Time Set Up
-For this course we will be using the latest version "Anaconda"--a distribution of the Python programming langauge with pre-configured settings designed for text mining, data analytics, and more!
-
-- Install [Anaconda](https://www.anaconda.com/products/distribution#macos) (it may take a couple minutes to download Anaconda).
+For this course we will be using the latest version "Anaconda"--a distribution of the Python programming langauge with pre-configured settings designed for text mining, data analytics, and more! Download Anaconda [here](https://www.anaconda.com/products/distribution#macos). Anaconda is pretty large, so it may take a couple minutes to download. 
 
 ## Code
 To access the Notebooks, "clone" (i.e. "download") the repository onto your computer. 
