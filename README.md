@@ -3,7 +3,7 @@ The FAHA institute provides online and in-person education aimed at a broad rang
 
 <p align="center">
   <img src="https://github.com/stephbuon/faha/blob/main/images/old_bailey_collage.jpg" alt="Trulli" style="width:60%">
-  <figcaption align = "center"><b>Old Bailey collage</b></figcaption>
+  <b>Old Bailey collage</b>
 </p>
 
 ## First Time Set Up
