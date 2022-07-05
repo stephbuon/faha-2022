@@ -1,5 +1,5 @@
 # Foundations and Applications of Humanities Analytics
-The FAHA institute provides online and in-person education aimed at a broad range of humanities scholars. FAHA courses aim to empower scholars in the humanities by eliminating the “black box” of computational text analysis. Participants will gain a theoretical and practical understanding of text analysis methods, and will learn how to extract content and derive meaning from digital sources, enabling new humanities scholarship.
+The FAHA institute provides online and in-person education aimed at a broad range of humanities scholars. Participants will gain a theoretical and practical understanding of text analysis methods, and will learn how to extract content and derive meaning from digital sources, enabling new humanities scholarship.
 
 ## First Time Set Up
 For this course we will be using the latest version "Anaconda"--a distribution of the Python programming langauge with pre-configured settings designed for text mining, data analytics, and more! You can download Anaconda [here](https://www.anaconda.com/products/distribution#macos). 
