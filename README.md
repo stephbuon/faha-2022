@@ -13,15 +13,6 @@ To access the Notebooks for this course, "clone" (i.e. "download") the repositor
 git clone https://github.com/stephbuon/faha.git
 ```
 
-#### Subsequent Updates
-From inside the "faha" directory:
-
-```
-git reset --hard
-git pull
-git submodule update --recursive 
-```
-
 ## Data 
 While students are encouraged to discover archives that match their interests, we provide access to three pre-curated data sets that can be downloaded onto your computer: 
 
