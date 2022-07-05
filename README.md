@@ -7,8 +7,6 @@ For this course we will be using the latest version "Anaconda"--a distribution o
 ## Code
 To access the Notebooks for this course you can "clone" (i.e. "download") the repository onto your computer. 
 
-#### Initial Clone
-
 ```
 git clone https://github.com/stephbuon/faha.git
 ```
