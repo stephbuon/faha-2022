@@ -19,7 +19,7 @@ While students are encouraged to discover archives that match their interests, w
 - SIMON
 
 #### About the U.S. Congress Data Set
-The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session. We scraped several years worth of the online Daily Editions of the U.S. Congressional Records from "congress.gov." For a full description of the Daily Editions, or for access to different versions (such as the Bound Edition), see [Gov Info](https://www.govinfo.gov/help/crecb).  
+The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session. We scraped several years worth of records from "congress.gov." For a full description of the Daily Editions, or for access to different versions (such as the Bound Edition), see [Gov Info](https://www.govinfo.gov/help/crecb).  
 
 #### About the Minutes from the State Boards of Education
 We converted PDF for ENTER 
