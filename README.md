@@ -1,7 +1,7 @@
 # Foundations and Applications of Humanities Analytics
 The FAHA institute provides online and in-person education aimed at a broad range of humanities scholars. Participants will gain a theoretical and practical understanding of text analysis methods, and will learn how to extract content and derive meaning from digital sources, enabling new humanities scholarship.
 
-<figure>
+<figure align="center">
   <img src="https://github.com/stephbuon/faha/blob/main/images/old_bailey_collage.jpg" alt="Trulli" style="width:50%">
   <figcaption align = "center"><b>Old Bailey collage</b></figcaption>
 </figure>
