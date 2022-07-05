@@ -24,13 +24,13 @@ git clone https://github.com/stephbuon/faha.git
 While students are encouraged to discover archives that match their interests, we provide access to three pre-curated data sets that can be downloaded onto your computer: 
 
 - [The U.S. Congress, 2002-2022]()
-- [State Boards of Education Minutes]()
+- [Minutes from the State Education Boards]()
 - SIMON
 
 #### About the U.S. Congress Data Set
 The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session. We scraped several years worth of records from "congress.gov." For a full description of the Daily Editions, or for access to different versions (such as the Bound Edition), see [Gov Info](https://www.govinfo.gov/help/crecb).  
 
-#### About the Minutes from the State Boards of Education
+#### About the Minutes from the State Education Boards
 We converted PDF for ENTER 
 
 for what states? 
