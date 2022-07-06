@@ -14,7 +14,9 @@ The FAHA institute provides online and in-person education aimed at a broad rang
 For this course we will be using the latest version "Anaconda"--a distribution of the Python programming langauge with pre-configured settings designed for text mining, data analytics, and more! You can download Anaconda [here](https://www.anaconda.com/products/distribution#macos). 
 
 ## Code
-To access the Notebooks for this course you can "clone" (i.e. "download") the repository onto your computer. 
+To access the Notebooks for this course you can click the green "code" button (top right corner) and "Download Zip." 
+
+Alternatively, you can "clone" the repository onto your computer using terminal with the following command:
 
 ```
 git clone https://github.com/stephbuon/faha.git
