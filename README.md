@@ -23,7 +23,7 @@ git clone https://github.com/stephbuon/faha.git
 ```
 
 ## Data 
-While students are encouraged to discover archives that match their interests, we provide access to three pre-curated data sets that can be downloaded onto your computer: 
+While students are encouraged to discover archives that match their interests, we provide access to four pre-curated data sets that can be downloaded onto your computer: 
 
 - [The U.S. Congress: 2001, 2005-2010](https://smu.app.box.com/folder/166535928114)
 - [The 19th-Century British Parliamentary Debates (also known as "Hansard")](https://smu.app.box.com/folder/166964250512)
@@ -42,5 +42,7 @@ for what years?
 #### About enter
 (enter)
 
+## Data Citations
+Buongiorno, Steph, Robert Kalescky, Eric Godat, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF] 
 
-
+Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy. "Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts." Palo Alto, CA: Stanford Libraries [distributor], 2018-01-16. https://data.stanford.edu/congress_text
