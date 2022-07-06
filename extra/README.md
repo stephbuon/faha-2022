@@ -1,4 +1,4 @@
-### Extra Resources
+## Extra Resources
 
 This folder contains supplementary materials--images and Notebooks. 
 
