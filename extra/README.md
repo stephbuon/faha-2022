@@ -1,1 +1,1 @@
-placeholder text 
+This folder contains supplementary materials--images and Notebooks. 
