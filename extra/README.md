@@ -6,4 +6,4 @@ __data_structures_and_types.ipynb__ provides a crash course on data structures a
 
 __topic_modeling.ipynb__ provides an introduction to LDA topic modeling using Gensim.
 
-__word_embeddings_100_years.ipynb__ uses word embeddings for a bird's eye view of how language was used over 100 years of debates. 
+__word_embeddings_100_years.ipynb__ uses word embeddings to get a bird's eye view of how language was used over 100 years of debates. 
