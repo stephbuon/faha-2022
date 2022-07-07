@@ -25,13 +25,16 @@ git clone https://github.com/stephbuon/faha.git
 ## Data 
 While students are encouraged to discover archives that match their interests, we provide access to four pre-curated data sets that can be downloaded onto your computer: 
 
-- [The U.S. Congress: 2001, 2005-2010](https://smu.app.box.com/folder/166535928114)
-- [The 19th-Century British Parliamentary Debates (also known as "Hansard")](https://smu.app.box.com/folder/166964250512)
-- [Minutes from the State Education Boards]()
-- SIMON
+- [The U.S. Congress: 2001, 2005-2010](https://santafe.box.com/s/waw16er5xe467vcyi3w42gworw1ekugx)
+- [The 19th-Century British Parliamentary Debates (also known as "Hansard")](https://santafe.box.com/s/ubb3brawxtr1l73cnpgr2uhr90qvhy4e)
+- [Minutes from the State Education Boards](https://santafe.box.com/s/wgta81lj7z0v7sr3oh9tntls86hz0tqs)
+- [Fiction Corpus](https://santafe.box.com/s/wbcx6gboj5orwc9wt56cg7y0qqymqfle)
 
 #### About the U.S. Congress Data Set
-The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session. We scraped several years worth of records from "congress.gov." For a full description of the Daily Editions, or for access to different versions (such as the Bound Edition), see [Gov Info](https://www.govinfo.gov/help/crecb).  
+The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session. We collected and cleaned several years worth of records from Stanford's data set.
+
+#### About the Hansard Data Set
+Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus. 
 
 #### About the Minutes from the State Education Boards
 We converted PDF for ENTER 
