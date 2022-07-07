@@ -34,7 +34,7 @@ While students are encouraged to discover archives that match their interests, w
 The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session. We collected and cleaned several years worth of records from Stanford's data set.
 
 #### About the Hansard Data Set
-Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus. 
+Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus; debates from the House of Commons and the House of Lords.
 
 #### About the Minutes from the State Education Boards
 We converted PDF for ENTER 
