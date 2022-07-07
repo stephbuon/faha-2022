@@ -42,8 +42,8 @@ We converted PDF for ENTER
 for what states? 
 for what years? 
 
-#### About enter
-(enter)
+#### About the "Fiction Corpus"
+what titles? 
 
 ## Data Citations
 Buongiorno, Steph, Robert Kalescky, Eric Godat, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF] 
