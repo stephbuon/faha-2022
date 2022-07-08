@@ -30,7 +30,7 @@ While students are encouraged to discover archives that match their interests, w
 - [Minutes from the State Education Boards](https://santafe.box.com/s/wgta81lj7z0v7sr3oh9tntls86hz0tqs)
 - [Fiction Corpus](https://santafe.box.com/s/wbcx6gboj5orwc9wt56cg7y0qqymqfle)
 
-__About the U.S. Congress Data Set__: The Congressional Record is the official record of the proceedings and debates of the United States Congress (from 1873 to the present moment). It is published online daily when Congress is in session. We collected and cleaned several years worth of records from Stanford's data set.
+__About the U.S. Congress Data Set__: The Congressional Record is the official record of the proceedings and debates of the United States Congress. It is published online daily when Congress is in session. We collected and cleaned several years worth of records from Stanford's data set.
 
 __About the Hansard Data Set__: Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus; debates from the House of Commons and the House of Lords.
 
