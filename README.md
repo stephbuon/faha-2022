@@ -47,3 +47,5 @@ what titles?
 Buongiorno, Steph, Robert Kalescky, Eric Godat, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF] 
 
 Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy. "Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts." Palo Alto, CA: Stanford Libraries [distributor], 2018-01-16. https://data.stanford.edu/congress_text
+
+Odell, Evan. "Hansard Speeches 1979-2020 Version 3.0.1," https://evanodell.com/projects/datasets/hansard-data/, Evan Odell, V3, N.D.
