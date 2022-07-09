@@ -25,18 +25,18 @@ git clone https://github.com/stephbuon/faha.git
 ## Data 
 While students are encouraged to discover archives that match their interests, we provide access to four pre-curated data sets that can be downloaded onto your computer: 
 
+__The U.S. Congress Congressional Records__: The Congressional Record is the official record of the proceedings and debates of the United States Congress. It is published online daily when Congress is in session.
+
+__The Hansard Debates__: Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus, debates from the House of Commons and the House of Lords.
+
+__The Minutes from the State Education Boards__: for what states? for what years? 
+
+__A "Fiction Corpus"__: what titles? 
+
 - [The U.S. Congress (1873–2017)](https://santafe.box.com/s/waw16er5xe467vcyi3w42gworw1ekugx)
 - [The 19th-Century British Parliamentary Debates (also known as "Hansard")](https://santafe.box.com/s/ubb3brawxtr1l73cnpgr2uhr90qvhy4e)
 - [Minutes from the State Education Boards](https://santafe.box.com/s/wgta81lj7z0v7sr3oh9tntls86hz0tqs)
 - [Fiction Corpus](https://santafe.box.com/s/wbcx6gboj5orwc9wt56cg7y0qqymqfle)
-
-__About the U.S. Congress Data Set__: The Congressional Record is the official record of the proceedings and debates of the United States Congress. It is published online daily when Congress is in session.
-
-__About the Hansard Data Set__: Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus, debates from the House of Commons and the House of Lords.
-
-__About the Minutes from the State Education Boards__: for what states? for what years? 
-
-__About the "Fiction Corpus"__: what titles? 
 
 ## Data Citations
 Buongiorno, Steph, Robert Kalescky, Eric Godat, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF] 
