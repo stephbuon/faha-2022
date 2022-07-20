@@ -23,13 +23,13 @@ git clone https://github.com/stephbuon/faha.git
 ```
 
 ## Data 
-While students are encouraged to discover archives that match their interests, we provide access to four pre-curated data sets that can be downloaded onto your computer: 
+While students are encouraged to discover archives that match their interests, we provide access to four pre-curated data sets that can be downloaded onto your computer. These data sets have undergone transformed from their original sources (see data citations). 
 
 __The U.S. Congress Congressional Records__: The Congressional Record is the official record of the proceedings and debates of the United States Congress. It is published online daily when Congress is in session.
 
 __The Hansard Debates__: Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus, debates from the House of Commons and the House of Lords.
 
-__The Minutes from the State Education Boards__: for what states? for what years? 
+__The Minutes from the State Education Boards__: We specifically provide data for the State Education Board for Loudon County for the year 2021. 
 
 __A "Fiction Corpus"__: what titles? 
 
