@@ -29,14 +29,11 @@ __The U.S. Congress Congressional Records__: The Congressional Record is the off
 
 __The Hansard Debates__: Hansard is the name of the transcripts of Parliamentary debates in Britain. We provide access to the 19th-century corpus, debates from the House of Commons and the House of Lords.
 
-__The Minutes from the State Education Boards__: We specifically provide data for the State Education Board for Loudon County for the year 2021. 
-
-__A "Fiction Corpus"__: what titles? 
+__The Minutes from the State Education Boards__: We specifically provide data for the State Education Board for Loudon County, Virginia for the year 2021. 
 
 - [The U.S. Congress (1873–2017)](https://santafe.box.com/s/waw16er5xe467vcyi3w42gworw1ekugx)
 - [The 19th-Century British Parliamentary Debates (also known as "Hansard")](https://santafe.box.com/s/ubb3brawxtr1l73cnpgr2uhr90qvhy4e)
 - [Minutes from the State Education Boards](https://santafe.box.com/s/wgta81lj7z0v7sr3oh9tntls86hz0tqs)
-- [Fiction Corpus](https://santafe.box.com/s/wbcx6gboj5orwc9wt56cg7y0qqymqfle)
 
 ## Data Citations
 Buongiorno, Steph, Robert Kalescky, Eric Godat, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF] 
