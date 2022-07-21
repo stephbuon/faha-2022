@@ -31,6 +31,8 @@ __The Hansard Debates__: Hansard is the name of the transcripts of Parliamentary
 
 __The Minutes from the State Education Boards__: We specifically provide data for the State Education Board for Loudon County, Virginia for the year 2021. 
 
+__"Small" Hansard__: A subset of Evan Odell's c20 Hansard corpus specifically for running our NetworkX introduction. 
+
 - [The U.S. Congress (1873–2017)](https://santafe.box.com/s/waw16er5xe467vcyi3w42gworw1ekugx)
 - [The 19th-Century British Parliamentary Debates (also known as "Hansard")](https://santafe.box.com/s/ubb3brawxtr1l73cnpgr2uhr90qvhy4e)
 - [Minutes from the State Education Boards](https://santafe.box.com/s/wgta81lj7z0v7sr3oh9tntls86hz0tqs)
