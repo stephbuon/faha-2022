@@ -34,7 +34,7 @@ __The Minutes from the State Education Boards__: We specifically provide data fo
 __"Small" Hansard__: A subset of Evan Odell's c20 Hansard corpus specifically for running our NetworkX introduction. 
 
 - [The U.S. Congress (1873–2017)](https://santafe.box.com/s/waw16er5xe467vcyi3w42gworw1ekugx)
-- [The Hansard 19th-Century British Parliamentary Debates)](https://santafe.box.com/s/ubb3brawxtr1l73cnpgr2uhr90qvhy4e)
+- [The Hansard British Parliamentary Debates](https://santafe.box.com/s/ubb3brawxtr1l73cnpgr2uhr90qvhy4e)
 - [Minutes from the State Education Boards](https://santafe.box.com/s/wgta81lj7z0v7sr3oh9tntls86hz0tqs)
 
 
