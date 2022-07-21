@@ -34,6 +34,7 @@ __The Minutes from the State Education Boards__: We specifically provide data fo
 - [The U.S. Congress (1873–2017)](https://santafe.box.com/s/waw16er5xe467vcyi3w42gworw1ekugx)
 - [The 19th-Century British Parliamentary Debates (also known as "Hansard")](https://santafe.box.com/s/ubb3brawxtr1l73cnpgr2uhr90qvhy4e)
 - [Minutes from the State Education Boards](https://santafe.box.com/s/wgta81lj7z0v7sr3oh9tntls86hz0tqs)
+- ["Small" Hansard (for NetworkX)](https://smu.app.box.com/folder/168021916006)
 
 ## Data Citations
 Buongiorno, Steph, Robert Kalescky, Eric Godat, Omar Alexander Cerpa, and Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse, V1, 2022, UNF:6:wFlN6+URD9Q9BWYxgZgu1A== [fileUNF] 
